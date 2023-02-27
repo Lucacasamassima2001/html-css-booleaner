@@ -15,8 +15,8 @@ body{
 
 .logo{
     position: absolute;
-    width: 450px;
-    height: 100px;
+    width: 350px;
+    height: 80px;
     background-image: url(../img/logo.svg);
     background-size: cover;
     bottom: 15px;
