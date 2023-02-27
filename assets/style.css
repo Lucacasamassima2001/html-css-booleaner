@@ -1,0 +1,56 @@
+body{
+    margin: 0;
+}
+
+
+.pattern{
+    width: 100%;
+    height: 200px;
+    background-image: url(../img/pattern.png);
+    background-color: rgb(132, 132, 249);
+    position: relative;
+}
+
+
+.logo{
+    position: absolute;
+    width: 450px;
+    height: 100px;
+    background-image: url(../img/logo.svg);
+    background-size: cover;
+    bottom: 15px;
+}
+
+
+h1{
+    font-size: 60px;
+    margin-bottom: 5px;
+    margin-top: 15px;
+}
+
+.sottotitologrigio{
+    width: 100%;
+    height: 30px;
+    font-size: 25px;
+    color: grey;
+}
+
+.Thebooleaner{
+    font-size: 25px;
+    color: aqua;
+}
+
+.data{
+    color: grey;
+    font-size: 15px;
+    margin-bottom: 20px;
+}
+
+.primo-paragrafo{
+    font-size: 20px;
+
+}
+
+.evidenziato{
+    background-color: yellow;
+}
