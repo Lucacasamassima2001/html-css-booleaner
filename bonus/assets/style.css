@@ -2,6 +2,18 @@ body{
     margin: 0;
 }
 
+main{
+    margin-left: 200px;
+    margin-right: 250px;
+}
+
+
+
+
+
+
+
+
 /*inizio prima sezione*/
 
 .pattern{
@@ -14,6 +26,7 @@ body{
 
 
 .logo{
+    margin-left: 200px;
     position: absolute;
     width: 350px;
     height: 80px;
