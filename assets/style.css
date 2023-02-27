@@ -54,3 +54,36 @@ h1{
 .evidenziato{
     background-color: yellow;
 }
+
+
+.tabella{
+    text-align: center;
+    width: 100%;
+    height: 250px;
+    border-spacing: 0;
+}
+
+.cella{
+  width: 350px;
+}
+
+.primariga{
+    width: 100%;
+    height: 30px;
+    background-color: rgb(16, 131, 203);
+    color: white;
+}
+
+.rigachiara{
+    background-color: rgb(142, 215, 191);
+}
+
+.testolungo{
+    text-align: left;
+}
+
+.suggerimenti{
+    color: grey;
+    font-weight: bold;
+    font-size: 20px;
+}
